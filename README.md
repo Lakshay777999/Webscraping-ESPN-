@@ -7,7 +7,7 @@ STEPS TO RUN THE CODE
 2.Keeps these files inside a folder 
 3.install cheerio(node package)
 4.install request(node package)
-and run homepage.js 
+5.run homepage.js 
 
 DONE..........................................................
 
